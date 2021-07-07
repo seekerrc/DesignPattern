@@ -45,7 +45,6 @@ class CollegeEmployee {
     }
 }
 
-
 //学院
 class CollegeManager {
     public List<CollegeEmployee> getAllEmployee() {
